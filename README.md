@@ -9,6 +9,8 @@ An autonomous AI trading agent using Deep Reinforcement Learning (PPO). Unlike r
 
 An end-to-end Machine Learning project that builds an autonomous stock trading bot. Unlike traditional algorithmic traders that use hard-coded rules (e.g., "Buy when RSI < 30"), this agent uses **Deep Reinforcement Learning (PPO)** to learn its own profitable strategies through trial and error.
 
+### code was written in different files and was run, but at end to get a clean code we have used gpt for help
+
 ## 🧠 Project Architecture
 
 * **The Brain (Agent):** Proximal Policy Optimization (PPO) from `stable-baselines3`.
